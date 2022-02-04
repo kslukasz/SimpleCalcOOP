@@ -1,0 +1,32 @@
+body{
+    margin:50px;
+}
+input{
+    display: block;
+    margin:10px;
+    font-size: 25px;
+    width: 190px;
+    padding-left: 10px;
+    
+}
+button  {
+    margin-left:10px;
+    font-size: 25px;
+    width: 41px;
+    height: 35px;
+}
+div{
+    width: 194px;
+    height: 35px;
+    font-size: 25px;
+    border:solid 1px black;
+    border-radius: 2px;
+    margin-left: 10px;
+    margin-bottom: 10px;  
+    padding-left: 10px; 
+    padding-top:5px;
+    overflow:hidden;
+}
+div:hover{
+    overflow: visible;
+}
